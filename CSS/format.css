@@ -1,0 +1,58 @@
+body
+{
+	background: RGB(250,10,200);
+	text-align: justify;
+	font-family: Ariel; 
+	max-width: 800px;
+	width: 80%;
+}
+
+h1
+{
+	text-shadow: 5px 5px 5px gray;
+	text-align: center;
+	color: orange;
+	font-size: 60px;
+	letter-spacing: 15px;
+	font-weight: bold;
+	font-family: "Century Gothic" , Georgia;
+	
+}
+
+h2
+{
+	font-variant: small-caps;
+	letter-spacing: 5px;
+	color: white;
+	font-family: Georgia;
+}
+
+p
+{
+	color: orange;
+}
+
+a:link {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: magenta;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+  font-size:20px;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
